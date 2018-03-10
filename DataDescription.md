@@ -12,7 +12,7 @@ Data Descripton
   
   * The dataset is provided by NYPD and owned by NYC OpenData. It has 5.58 Million rows and 24 variables. 3 types of variables included are number, text, and location. The 24 variables are listed below.
   
-Column&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Description  
+Column&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Description  
 CMPLNT_NUM(number)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Randomly generated persistent ID for each complaint  
 CMPLNT_FR_DT(Date&Time)&nbsp;"Exact date of occurrence for the reported event (or starting date of occurrence, if CMPLNT_TO_DT exists)"  
 CMPLNT_FR_TM(text)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Exact time of occurrence for the reported event (or starting time of occurrence, if CMPLNT_TO_TM exists)"  
